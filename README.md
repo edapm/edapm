@@ -2,8 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TOML       5 mins          ███████████████▓░░░░░░░░░   62.54 % 
-Markdown   3 mins          ████████▓░░░░░░░░░░░░░░░░   34.32 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
