@@ -1,15 +1,8 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.18 % 
-Other        3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
-JSON         3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Astro        2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Git Config   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-```
-<!--END_SECTION:waka-->
+I'm Edward.
 
+[TW](https://twitter.com/edwardapmason) | [LI](https://linkedin.com/in/eapmason) | [GH](https://github.com/edapm) | [GL](https://gitlab.com/edapm) <!-- | [BL]() -->
 <!--
 **edapm/edapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
