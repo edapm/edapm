@@ -2,7 +2,7 @@
 
 I'm Edward.
 
-[TW](https://twitter.com/eapm05) | [LI](https://linkedin.com/in/eapmason) | [GH](https://github.com/edapm) | [GL](https://gitlab.com/edapm) | [EM](mailto:dqypilr7@duck.com) <!-- | [BL]() -->
+[TW](https://twitter.com/eapm05) | [LI](https://linkedin.com/in/eapmason) | [GH](https://github.com/edapm) | [GL](https://gitlab.com/edapm) <!-- | [EM]()--> <!-- | [BL]() -->
 <!--
 **edapm/edapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
