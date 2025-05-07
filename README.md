@@ -8,4 +8,4 @@ I'm reasonably competent in ![**JavaScript**](https://img.shields.io/badge/JavaS
 
 I have historically coded in ![**Python**](https://img.shields.io/badge/Python-orange?logo=python) too.
 
-I'm currently learning ![**R**](https://img.shields.io/badge/R-blue?logo=r) and ![**PHP**](https://img.shields.io/badge/PHP-white?logo=php).
+I'm currently learning ![**R**](https://img.shields.io/badge/R-blue?logo=r).
